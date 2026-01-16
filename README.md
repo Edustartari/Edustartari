@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eduardo Startari Ferreira
+# Hi 👋, I'm Eduardo Startari
 
 - 📫 How to reach me **edustartari@gmail.com**
 
