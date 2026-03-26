@@ -17,10 +17,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edustartari/Edustartari/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Edustartari/Edustartari/output/pacman-contribution-graph.svg">
 </picture>
-
-##
-<div align="center">
-  <a href="https://github.com/Edustartari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edustartari&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edustartari&layout=compact&langs_count=7&theme=transparent"/>
-</div>
